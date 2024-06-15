@@ -1,0 +1,5 @@
+Server IP: 165.227.52.63
+IPsec PSK: UKNbCdrhhSwg4jNU7c5R
+Username: vpnuser
+Password: ESVbP3UP7HJGrs4W
+
